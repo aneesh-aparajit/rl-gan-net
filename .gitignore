@@ -1,2 +1,3 @@
 *.sh
 models_cpu/
+data/
